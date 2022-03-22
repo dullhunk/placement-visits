@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Purpose
 
-You can use the [editor on GitHub](https://github.com/dullhunk/placement-visits/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The purpose of meeting students on placement is to find out 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Find out what they have been doing
+2. Get students to reflect on what they've done well (with their manager)
+3. Get students to reflect on what they could (with their manager)
 
-### Markdown
+## What have you been doing?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Tell me about your employer and the products or services they provide
+* Which products or services have you been working on 
+* What methodologies and tools have you been using 
+* What have you been surprised by since you started work?
 
-```markdown
-Syntax highlighted code block
+## What went well (WWW)? 
 
-# Header 1
-## Header 2
-### Header 3
+* What  is going well? 
+* Are there any projects or achievements you are particularly proud of (ask student first, then their manager) 
+* What skills or knowledge have you managed to build so far?
 
-- Bulleted
-- List
+## Even Better If (EBI)?
 
-1. Numbered
-2. List
+* What areas have you identified for improvement in the future (ask student first, then their manager)
+* How are you planning to develop these skills
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dullhunk/placement-visits/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Depending on the time of the visit, you may also want to remind them about proposing their own project (or picking one from the project book)
