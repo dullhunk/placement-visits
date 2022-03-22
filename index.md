@@ -4,7 +4,7 @@ The purpose of meeting undergraduate Computer Science students on placement is t
 
 1. Find out what they have been doing
 2. Get students to reflect on what they've done well (with their manager)
-3. Get students to reflect on what they could (with their manager)
+3. Get students to reflect on what they could do better (with their manager)
 
 Please fill in the short form at [forms.office.com/r/7ULi1Qbuhc](https://forms.office.com/r/7ULi1Qbuhc) (UoM login required) to capture this information and so that we know which students have been visited. The meetings usually last somewhere between 20 and 30 minutes.
 
@@ -20,12 +20,12 @@ Please fill in the short form at [forms.office.com/r/7ULi1Qbuhc](https://forms.o
 
 * What is going well? 
 * Are there any projects or achievements you are particularly proud of (ask student first, then their manager) 
-* What skills or knowledge have you managed to build so far?
+* What skills or knowledge have you managed to build so far (include software & hard skills)?
 
 ## Even Better If (EBI)?
 
 * What areas have you identified for improvement in the future (ask student first, then their manager)
-* How are you planning to develop these skills?
+* How are you planning to develop these skills? Include software & hard skills
 * Are there any other things you want to work on before the placement finishes?
 
 ## Any other business?
