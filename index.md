@@ -20,12 +20,12 @@ Please fill in the short form at [forms.office.com/r/7ULi1Qbuhc](https://forms.o
 
 * What is going well? 
 * Are there any projects or achievements you are particularly proud of (ask student first, then their manager) 
-* What skills or knowledge have you managed to build so far (include software & hard skills)?
+* What skills or knowledge have you managed to build so far (include soft & hard skills)?
 
 ## Even Better If (EBI)?
 
 * What areas have you identified for improvement in the future (ask student first, then their manager)
-* How are you planning to develop these skills? Include software & hard skills
+* How are you planning to develop these skills? Include soft & hard skills
 * Are there any other things you want to work on before the placement finishes?
 
 ## Any other business?
