@@ -35,4 +35,4 @@ Once you've visited your tutees, please fill in the short form at [forms.office.
 Depending on the time of the visit, you may also want to remind the student about proposing their own project (or picking one from the project book)
 
 
-(For tutees, there's some more guidance on these meetings at [www.cdyf.me/surviving.html#visits](https://www.cdyf.me/surviving.html#visits)
+(For tutees, there's some more guidance on these meetings at [www.cdyf.me/starting#visits](https://www.cdyf.me/starting#visits)
