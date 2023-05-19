@@ -41,6 +41,5 @@ This is a good opportunity to check that the student has chosen or proposed a fi
 
 ## Any other business?
 
-AOB
-
-(For tutees, there's some more guidance on these meetings at [www.cdyf.me/starting#visits](https://www.cdyf.me/starting#visits)
+* AOB
+* For tutees, there's some more guidance on these meetings at [www.cdyf.me/starting#visits](https://www.cdyf.me/starting#visits)
