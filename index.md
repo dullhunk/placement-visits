@@ -34,5 +34,10 @@ Once you've visited your tutees, please fill in the short form at [forms.office.
 
 Depending on the time of the visit, you may also want to remind the student about proposing their own project (or picking one from the project book)
 
+## Placement report?
+The type of placement report you write depends on your degree program
+
+* For Bachelors students, there's a self explanatory template at https://www.overleaf.com/latex/templates/industrial-placement-report/vcjymrgmcpzh
+* For MEng students, speak to the MEng tutor, Tim Morris https://research.manchester.ac.uk/en/persons/tim.morris
 
 (For tutees, there's some more guidance on these meetings at [www.cdyf.me/starting#visits](https://www.cdyf.me/starting#visits)
