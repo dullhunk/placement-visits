@@ -33,8 +33,8 @@ Once you've visited your tutees, please fill in the short form at [forms.office.
 ## Placement report
 The type of placement report you write depends on your degree program
 
-* For Bachelors students, there's a self explanatory template at https://www.overleaf.com/latex/templates/industrial-placement-report/vcjymrgmcpzh
-* For MEng students, speak to the MEng tutor, Tim Morris https://research.manchester.ac.uk/en/persons/tim.morris
+* For Bachelors students, there's a self explanatory template at [https://www.overleaf.com/latex/templates/industrial-placement-report/vcjymrgmcpzh](https://www.overleaf.com/latex/templates/industrial-placement-report/vcjymrgmcpzh)
+* For MEng students, speak to the MEng tutor, Tim Morris [https://research.manchester.ac.uk/en/persons/tim.morris](https://research.manchester.ac.uk/en/persons/tim.morris)
 
 ## Final year project
 This is a good opportunity to check that the student has chosen or proposed a final year project.
