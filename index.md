@@ -48,4 +48,5 @@ This is a good opportunity to check that the student has chosen or proposed a fi
 
 You may find Bookings with me a useful tool for scheduling the meeting, students pick slots that you make available
 * [outlook.office.com/bookwithme/](https://outlook.office.com/bookwithme/)
+* [www.itservices.manchester.ac.uk/ourservices/popular/microsoft365/bookings/](https://www.itservices.manchester.ac.uk/ourservices/popular/microsoft365/bookings/)
 * [support.microsoft.com/en-au/office/bookings-with-me-setup-and-sharing-ad2e28c4-4abd-45c7-9439-27a789d254a2](https://support.microsoft.com/en-au/office/bookings-with-me-setup-and-sharing-ad2e28c4-4abd-45c7-9439-27a789d254a2)
