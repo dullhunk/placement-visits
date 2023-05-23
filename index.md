@@ -1,4 +1,4 @@
-# Purpose
+# Purpose of the meeting
 
 The purpose of meeting undergraduate Computer Science students on placement is to:
 
@@ -46,7 +46,7 @@ This is a good opportunity to check that the student has chosen or proposed a fi
 
 ## Scheduling the meeting using outlook
 
-You may find Bookings with me a useful tool for scheduling the meeting, students pick slots that you make available by granting them write access to selected parts of your diary:
+You may find the *Microsoft Bookings* tool useful for scheduling the meeting, students pick slots that you make available by granting them write access to selected parts of your diary:
 
 * [outlook.office.com/bookwithme](https://outlook.office.com/bookwithme/)
 * [www.itservices.manchester.ac.uk/ourservices/popular/microsoft365/bookings/](https://www.itservices.manchester.ac.uk/ourservices/popular/microsoft365/bookings/) for requesting the service to be switched on by IT
