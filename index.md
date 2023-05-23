@@ -42,7 +42,7 @@ Once you've visited your tutees, please fill in the short tutees form at [forms.
 * AOB   
 * For tutees, there's some more guidance on these meetings at [www.cdyf.me/starting#visits](https://www.cdyf.me/starting#visits)
 
-## Scheduling the meeting with your tutee using outlook
+## Scheduling the meeting with your tutee using Microsoft Bookings
 
 You may find the *Microsoft Bookings* tool useful for scheduling the meeting, students pick slots that you make available by granting them write access to selected parts of your diary:
 
