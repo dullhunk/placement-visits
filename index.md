@@ -8,7 +8,7 @@ The purpose of meeting undergraduate Computer Science students on placement is t
 
 Most employers can do these visits remotely via Zoom or Microsoft Teams.
 
-Once you've visited your tutees, please fill in the short form at [forms.office.com/r/7ULi1Qbuhc](https://forms.office.com/r/7ULi1Qbuhc) (UoM login required) to capture this information and so that we know which students have been visited. The meetings usually last somewhere between 20 and 30 minutes.
+Once you've visited your tutees, please fill in the short tutees form at [forms.office.com/r/7ULi1Qbuhc](https://forms.office.com/r/7ULi1Qbuhc) (UoM login required) to capture this information and so that we know which students have been visited. The meetings usually last somewhere between 20 and 30 minutes.
 
 
 ## What have you been doing?
@@ -30,8 +30,8 @@ Once you've visited your tutees, please fill in the short form at [forms.office.
 * How are you planning to develop these skills? Include soft & hard skills
 * Are there any other things you want to work on before the placement finishes?
 
-## Placement report
-The type of placement report you write depends on your degree program
+## Placement report for students
+The type of placement report the student writes depends on their degree program:
 
 * For Bachelors students, there's a self explanatory template at [overleaf.com/latex/templates/industrial-placement-report/vcjymrgmcpzh](https://www.overleaf.com/latex/templates/industrial-placement-report/vcjymrgmcpzh)
 * For MEng students, speak to the MEng tutor, Tim Morris [research.manchester.ac.uk/en/persons/tim.morris](https://research.manchester.ac.uk/en/persons/tim.morris)
