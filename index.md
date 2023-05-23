@@ -36,7 +36,7 @@ The type of placement report the student writes depends on their degree program:
 * For Bachelors students, there's a self explanatory template at [overleaf.com/latex/templates/industrial-placement-report/vcjymrgmcpzh](https://www.overleaf.com/latex/templates/industrial-placement-report/vcjymrgmcpzh)
 * For MEng students, speak to the MEng tutor, Tim Morris [research.manchester.ac.uk/en/persons/tim.morris](https://research.manchester.ac.uk/en/persons/tim.morris)
 
-## Final year project
+## Have they sorted a final year project?
 This is a good opportunity to check that the student has chosen or proposed a final year project.
 
 ## Any other business?
@@ -44,7 +44,7 @@ This is a good opportunity to check that the student has chosen or proposed a fi
 * AOB
 * For tutees, there's some more guidance on these meetings at [www.cdyf.me/starting#visits](https://www.cdyf.me/starting#visits)
 
-## Scheduling the meeting
+## Scheduling the meeting using outlook
 
 You may find Bookings with me a useful tool for scheduling the meeting, students pick slots that you make available
 * [outlook.office.com/bookwithme/](https://outlook.office.com/bookwithme/)
