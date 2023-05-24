@@ -38,7 +38,7 @@ Once you've visited your tutees, please fill in the short tutees form at [forms.
 * Have they sorted a final year project? This is a good opportunity to check that the student has chosen or proposed a final year project.
 * The type of placement report the student writes depends on their degree program:
     + For Bachelors students, there's a self explanatory template at [overleaf.com/latex/templates/industrial-placement-report/vcjymrgmcpzh](https://www.overleaf.com/latex/templates/industrial-placement-report/vcjymrgmcpzh) which they can submit via Blackboard
-    +  For MEng students, speak to the MEng tutor, Tim Morris [research.manchester.ac.uk/en/persons/tim.morris](https://research.manchester.ac.uk/en/persons/tim.morris)
+    +  For MEng students, the details for MEng report submission are on blackboard for COMP40901
 * AOB   
 * For tutees, there's some more guidance on these meetings at [www.cdyf.me/starting#visits](https://www.cdyf.me/starting#visits)
 
