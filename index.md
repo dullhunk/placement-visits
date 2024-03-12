@@ -9,7 +9,7 @@ The purpose of meeting undergraduate Computer Science students on placement is t
 
 Most employers can do these visits remotely via Zoom or Microsoft Teams.
 
-Once you've visited your tutees, please fill in the short tutees form at [forms.office.com/r/7ULi1Qbuhc](https://forms.office.com/r/7ULi1Qbuhc) (UoM login required) to capture this information and so that we know which students have been visited. The meetings usually last somewhere between 20 and 30 minutes.
+Once you've visited your tutees, please fill in the short tutees form at [bit.ly/placement-visit-form](https://bit.ly/placement-visit-form) (UoM login required) to capture this information and so that we know which students have been visited. The meetings usually last somewhere between 20 and 30 minutes.
 
 
 ## 1: What have you been doing?
