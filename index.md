@@ -44,7 +44,7 @@ Once you've visited your tutees, please fill in the short tutees form at [bit.ly
 
 ## Scheduling the meeting with your tutee using Outlook
 
-Students typically finish their placements anytime between June and August, so it's usually best to have the meeting before the end of May.
+Students typically finish their placements anytime between June and August, so it's usually best to have the meeting before June.
 
 You may find the tools in Outlook useful for scheduling the meeting, there are a few ways of doing this:
 
