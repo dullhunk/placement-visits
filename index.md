@@ -50,5 +50,5 @@ You may find the tools in Outlook useful for scheduling the meeting, there are a
 
 * [outlook.office.com/bookwithme](https://outlook.office.com/bookwithme/)
 * [www.itservices.manchester.ac.uk/ourservices/popular/microsoft365/bookings/](https://www.itservices.manchester.ac.uk/ourservices/popular/microsoft365/bookings/) for requesting the service to be activated for your login by IT
-* [support.microsoft.com/en-au/office/bookings-with-me-setup-and-sharing-ad2e28c4-4abd-45c7-9439-27a789d254a2](https://support.microsoft.com/en-au/office/bookings-with-me-setup-and-sharing-ad2e28c4-4abd-45c7-9439-27a789d254a2) general documentation from Microsoft
+* [support.microsoft.com/en-au/office/bookings-with-me-setup-and-sharing-ad2e28c4-4abd-45c7-9439-27a789d254a2](https://support.microsoft.com/en-au/office/bookings-with-me-setup-and-sharing-ad2e28c4-4abd-45c7-9439-27a789d254a2) general documentation from Microsoft on bookings with me
 * [support.microsoft.com/en-us/office/create-a-scheduling-poll-34176e59-c87a-4a19-85a4-bb35050ace02](https://support.microsoft.com/en-us/office/create-a-scheduling-poll-34176e59-c87a-4a19-85a4-bb35050ace02) an alternative is to use a scheduling poll, works on Windows, Mac and the browser version of outlook.office.com
