@@ -44,7 +44,9 @@ Once you've visited your tutees, please fill in the short tutees form at [bit.ly
 
 ## Scheduling the meeting with your tutee using Microsoft Bookings
 
-You may find the *Microsoft Bookings* tool useful for scheduling the meeting, students pick slots that you make available by granting them write access to selected parts of your diary:
+Students typically finish their placements anytime between June and August, so it's usually best to have the meeting before the end of May.
+
+You may find the tools in Outlook useful for scheduling the meeting, there are a few ways of doing this:
 
 * [outlook.office.com/bookwithme](https://outlook.office.com/bookwithme/)
 * [www.itservices.manchester.ac.uk/ourservices/popular/microsoft365/bookings/](https://www.itservices.manchester.ac.uk/ourservices/popular/microsoft365/bookings/) for requesting the service to be activated for your login by IT
