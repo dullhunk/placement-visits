@@ -42,7 +42,7 @@ Once you've visited your tutees, please fill in the short tutees form at [bit.ly
 * AOB   
 * For tutees, there's some more guidance on these meetings at [www.cdyf.me/starting#visits](https://www.cdyf.me/starting#visits)
 
-## Scheduling the meeting with your tutee using Outlook
+## Scheduling meetings using Outlook
 
 Students typically finish their placements anytime between June and August, so it's usually best to have the meeting before June.
 
