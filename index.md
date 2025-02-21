@@ -7,9 +7,9 @@ The purpose of meeting undergraduate Computer Science students on placement is t
 3. Get students to reflect on what they could do better (with their manager)
 4. AOB
 
-Most employers can do these visits remotely via Zoom or Microsoft Teams.
+Most employers can do these visits remotely via Zoom, Microsoft Teams or similar video conferencing software.
 
-Once you've visited your tutees, please fill in the short tutees form at [bit.ly/placement-visit-form](https://bit.ly/placement-visit-form) (UoM login required) to capture this information and so that we know which students have been visited. The meetings usually last somewhere between 20 and 30 minutes.
+Once you've visited your tutees, please fill in the short tutees form at [bit.ly/placement-visit-form](https://bit.ly/placement-visit-form) (UoM login required) to capture this information and so that we know which students have been visited. The meetings usually last somewhere between 15 and 30 minutes.
 
 
 ## 1: What have you been doing?
@@ -21,7 +21,7 @@ Once you've visited your tutees, please fill in the short tutees form at [bit.ly
 
 ## 2: What went well (WWW)? 
 
-* What is going well? 
+* What is going well? Ask the student first, then their manager. Compare results.
 * Are there any projects or achievements you are particularly proud of (ask student first, then their manager) compare results
 * What skills or knowledge have you managed to build so far (include soft & hard skills)?
 
@@ -35,9 +35,9 @@ Once you've visited your tutees, please fill in the short tutees form at [bit.ly
 
 ## 4. Any other business?
 
-* Have they sorted a final year project? This is a good opportunity to check that the student has chosen or proposed a final year project.
+* Have they sorted a final year project? This is a good opportunity to check that the student has chosen or proposed a final year project. They've already received information about this, but it might help to remind them.
 * The type of placement report the student writes depends on their degree program:
-    + For Bachelors students, there's a self explanatory template at [overleaf.com/latex/templates/industrial-placement-report/vcjymrgmcpzh](https://www.overleaf.com/latex/templates/industrial-placement-report/vcjymrgmcpzh) which they can submit via Blackboard
+    + For Bachelors students, there's a placement report form to fill in by September at [forms.office.com/e/K1gAuWrnex](https://forms.office.com/e/K1gAuWrnex)
     +  For MEng students, the details for MEng report submission are on blackboard for COMP40901 at [online.manchester.ac.uk](http://online.manchester.ac.uk/)
 * AOB   
 * For tutees, there's some more guidance on these meetings at [www.cdyf.me/starting#visits](https://www.cdyf.me/starting#visits)
@@ -50,5 +50,4 @@ You may find the tools in Outlook useful for scheduling the meeting, there are a
 
 * [outlook.office.com/bookwithme](https://outlook.office.com/bookwithme/)
 * [www.itservices.manchester.ac.uk/ourservices/popular/microsoft365/bookings/](https://www.itservices.manchester.ac.uk/ourservices/popular/microsoft365/bookings/) for requesting the service to be activated for your login by IT
-* [support.microsoft.com/en-au/office/bookings-with-me-setup-and-sharing-ad2e28c4-4abd-45c7-9439-27a789d254a2](https://support.microsoft.com/en-au/office/bookings-with-me-setup-and-sharing-ad2e28c4-4abd-45c7-9439-27a789d254a2) general documentation from Microsoft on bookings with me
 * [support.microsoft.com/en-us/office/create-a-scheduling-poll-34176e59-c87a-4a19-85a4-bb35050ace02](https://support.microsoft.com/en-us/office/create-a-scheduling-poll-34176e59-c87a-4a19-85a4-bb35050ace02) an alternative is to use a scheduling poll, works on Windows, Mac and the browser version of outlook.office.com
